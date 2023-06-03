@@ -2,7 +2,7 @@
 Stock market skript that uses real life prices
 
 
-So, I made a stock market skript that uses real life prices, It does this through something called an api.
+So, I made a stock market skript that uses real life prices, It does this through an api.
 for this to work, you need to generate your own api key, the api I used here was called realstonks
 
 link:
