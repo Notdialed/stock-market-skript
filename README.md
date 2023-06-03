@@ -13,6 +13,12 @@ all you have to do is sign up, then copy paste the key you get into the option n
 ontop of this I included a simple economy, u can delete/change it, but you will also have to edit the code
 like the part that lets players buy/sell
 
+commands:
+/stocks
+/wallet
+/stockbuy <ticker>
+/stockrun (admins only, this gets the new price for the stock, its done automatically but this was added jus in case)
+
 msg me on discord for help for _dialed#0001
 
 
